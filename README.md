@@ -5,12 +5,13 @@
 <h3> My work </h3>
 <p> You can find the projects that I am most proud of <a href="https://dennisoconnell.github.io/portfolio/"> here </a> </p>
 
+<h3> More about me </h3>
 ```javascript
 const dennis = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java, C++],
   tools: [Vue, Node, Bootstrap, MathJax, LaTeX, D3, Processing, P5],
-  favoriteFractals: ["Mandelbrot Set",  ]
+  favoriteFractals: [Mandelbrot Set,  Julia Set, Sierpinski Triangle]
 }
 ```
 
