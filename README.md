@@ -1,7 +1,13 @@
-Hi, I'm Dennis O'Connell!
-I study Math at Santa Clara University.
+<h2> Hi, my name is Dennis O'Connell! </h2>
 
-This is where you can find the projects that I am most proud of.
+<p>Welcome to my portfolio page! </br> I'm a junior <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png" width="13"/> <b>Mathematics </b> Major at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Clara_Broncos_logo.svg/1200px-Santa_Clara_Broncos_logo.svg.png" width="13"/> <b> Santa Clara University </b> </p>
+
+
+<h3> About me </h3>
+
+
+<h3> My work </h3>
+<p> You can find the projects that I am most proud of <a href="https://dennisoconnell.github.io/portfolio/"> here </a> </p>
 
 <h3>Things I code with</h3>
 <p>
@@ -11,4 +17,4 @@ This is where you can find the projects that I am most proud of.
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
 </p>
 
-You can also find me on linkedin at www.linkedin.com/in/dennispoconnell.
+<h3> Connect with me! </h3>
