@@ -6,4 +6,4 @@
 
 <h3> About Me </h3>
 <p>
-I'm a junior <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png" width="13"/> <b>Mathematics </b> Major at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Clara_Broncos_logo.svg/1200px-Santa_Clara_Broncos_logo.svg.png" width="13"/> <b> Santa Clara University </b> </p>
+I'm a junior <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png" width="13"/> <b>Mathematics </b> Major at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Clara_Broncos_logo.svg/1200px-Santa_Clara_Broncos_logo.svg.png" width="13"/> <b> Santa Clara University. </b> Outside of classes, I stay busy learning new technologies and working on campus as a Resident Advisor and Program Coordinator for Special Olympics. I got my start with software development doing object oriented programming in Java, and I am currently having a blast learning about front end web development technolgies and the functional programming paradigm in Javascript! </p>
