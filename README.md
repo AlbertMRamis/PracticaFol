@@ -8,4 +8,14 @@
 <p>
 I'm a junior <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png" width="13"/> <b>Mathematics </b> Major at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Clara_Broncos_logo.svg/1200px-Santa_Clara_Broncos_logo.svg.png" width="13"/> <b> Santa Clara University. </b> </p>
 
-<p>Outside of classes, I stay busy working on campus as a Resident Advisor and as a Program Coordinator for Special Olympics. I got my start with software development doing object oriented programming in Java, and I am currently having a blast learning about front end web development technolgies and the functional programming paradigm in Javascript! </p>
+<p>
+I stay busy learning new technologies and working as the Department Coordinator for the Santa Clara Community Action Program.
+</p>
+<p>
+I got my start with software development doing object oriented programming 
+in Java, and I am currently having a blast learning about front end web development technolgies 
+and the functional programming paradigm in Javascript!
+</p>
+<h4>
+You can connect with me on <a href="https://github.com/dennisoconnell" target="_blank"> Github </a> or <a href="https://www.linkedin.com/in/dennispoconnell/" target="blank">Linkedin</a> as well! Or you can learn more about my work with the Santa Clara Community Action program<b><a href="https://www.santaclaracommunityactionprogram.org/health--disabilities.html"> here.</a></b>
+</h4>
