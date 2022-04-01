@@ -6,7 +6,7 @@
 
 <h3> About Me </h3>
 <p>
-I'm a junior <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Pi-symbol.svg/1058px-Pi-symbol.svg.png" width="13"/> <b>Mathematics </b> Major at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Clara_Broncos_logo.svg/1200px-Santa_Clara_Broncos_logo.svg.png" width="13"/> <b> Santa Clara University. </b> </p>
+I'm a graduate of <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Clara_Broncos_logo.svg/1200px-Santa_Clara_Broncos_logo.svg.png" width="13"/> <b> Santa Clara University. </b> </p>
 
 <p>
 I stay busy learning new technologies and working as the Department Coordinator for the Santa Clara Community Action Program.
