@@ -1,0 +1,211 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: open;
+}
+
+.contenedor {
+  width: 1600px;
+  margin: 0 auto;
+}
+
+@font-face {
+  font-family: open;
+  src: url(Jost-Medium.ttf);
+}
+.nav {
+  display: flex;
+  height: 90px;
+  align-items: center;
+  background-color: rgb(252, 202, 70);
+}
+
+.logo {
+  margin-right: auto;
+  margin-left: 30px;
+  width: 100px;
+}
+.svg {
+  display: inline-block;
+}
+
+path {
+  fill: rgba(31, 29, 6, 0.329) !important;
+  border: 2px solid #f4d06f;
+}
+
+nav {
+  margin: 0 20px;
+}
+
+a {
+  text-decoration: none;
+  margin-left: 40px;
+}
+
+.inicio {
+  padding: 5px;
+  border-radius: 50px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+
+
+titulo_bowie {
+  padding-top: 50px;
+}
+.novedades {
+  display: flex;
+  height: 1750px;
+  background-color: #f3dfa2;
+  border-bottom: 40px solid rgb(252, 202, 70);
+  flex-direction: column;
+  text-align: center;
+}
+
+.live {
+  width: 1600px;
+  height: 600px;
+  border-bottom: 20px solid rgb(252, 202, 70);
+}
+
+.guitar {
+  width: 800px;
+}
+.bob {
+  height: 520px;
+  margin-bottom: 5px;
+}
+
+.dylan {
+  margin-top: 120px;
+  font-size: 60px;
+  align-items: center;
+  line-height: 100px;
+  padding: 15px;
+}
+
+.bloque_1 {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.bloque_centro {
+  display: flex;
+}
+
+.bloque_3 {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(252, 202, 70);
+}
+.bloque_2 {
+  align-self: flex-start;
+  border-bottom: 20px solid rgb(252, 202, 70);
+}
+
+.centrado {
+  font-size: 80px;
+  color: rgb(252, 202, 70);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.noticias {
+  display: flex;
+  gap: 20px;
+  width: 1600px;
+  margin: 0 auto;
+}
+
+.resumen {
+  margin-top: 20px;
+  margin-bottom: 110px;
+  font-size: 26px;
+  line-height: 50px;
+}
+
+.img,
+.artic {
+  margin-top: 50px;
+}
+
+h3 {
+  margin-top: 45px;
+  font-size: 40px;
+}
+
+.artic {
+  width: 620px;
+  height: 376px;
+}
+
+.bloque_bajo {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.merch {
+  margin-top: 8px;
+  height: 560px;
+  width: 810px;
+  margin-right: 50px;
+}
+
+.text {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+
+.clase {
+  width: 693.33px;
+}
+
+.uno {
+  margin-bottom: 55px;
+}
+
+
+.logos {
+  display: flex;
+  width: 1600px;
+  margin: 0 auto;
+  justify-content: center;
+  gap: 200px;
+  margin-top: 30px;
+}
+.iconos {
+  width: 80px;
+}
+
+.pie {
+  display: flex;
+  width: 1600px;
+  margin: 0 auto;
+  height: 100px;
+  
+}
+
+.infor {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  width: 1600px;
+  margin: 0 auto;
+  background-color: #f3dfa2;
+  font-size: 30px;
+  align-items: center;
+  justify-content: flex-end;
+  margin-bottom: 40px;
+  margin-top: 25px;
+  border-top: 30px solid #f4d06f;
+}
+
+.con {
+  margin-bottom: 70px;
+}
